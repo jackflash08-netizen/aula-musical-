@@ -1,0 +1,20 @@
+AULA MUSICAL: AMÉRICA LATINA EM RITMO DE REGIME
+Publique index.html, vote.html e kit_de_midia.html na mesma pasta do GitHub Pages (mantenha o arquivo .nojekyll).
+Abra index.html no projetor e use o botão Modo filme. O celular dos alunos abre pelo QR code da capa (vote.html).
+Antes da aula, abra o kit_de_midia.html e deixe as abas do YouTube prontas.
+
+MÚSICAS DENTRO DO SLIDE
+O YouTube só toca dentro da aula quando a página é aberta por endereço http/https. Duas opções:
+1) Pelo GitHub Pages (recomendado).
+2) No computador: dê dois cliques em abrir_aula_no_computador.bat (precisa do Python instalado).
+Abrindo o index.html direto do disco, o slide mostra o botão "Tocar no YouTube (nova aba)".
+
+MÚSICA 100% DENTRO DA AULA (sem YouTube)
+Abra kit_de_midia.html no mesmo navegador/endereço da aula e escolha o arquivo de áudio de cada faixa.
+Ou, na própria aula, quando o player do YouTube falhar, clique em "Carregar o arquivo da música".
+Os arquivos ficam salvos no navegador e tocam dentro do slide (até 90 segundos a partir do ponto inicial).
+
+VERSOS NA TELA
+No kit_de_midia.html, digite o verso que quiser mostrar em cada faixa (com autor e música). Ele aparece à direita no último passo da faixa. Campo vazio = nada aparece.
+
+Videos do YouTube: para tocarem dentro da aula, abra pelo arquivo abrir_aula_no_computador.bat (Windows) ou abrir_aula_mac_linux.command (Mac/Linux), ou hospede a pasta no GitHub Pages. Aberto direto do arquivo, o YouTube bloqueia o player.
